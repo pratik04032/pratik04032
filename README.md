@@ -169,9 +169,9 @@ I'm actively seeking internships, collaborations on real-world projects, and ope
 
 | Platform | Profile |
 | :--- | :--- |
-| 💼 **LinkedIn** | [Pratik Kumar Jena]([https://www.linkedin.com/in/pratik-kumar-jena-1823b3243/](https://www.linkedin.com/in/pratik-kumar-jena-1823b3242/)) |
+| 💼 **LinkedIn** | [Pratik Kumar Jena](www.linkedin.com/in/pratik-kumar-jena-1823b3243/](https://www.linkedin.com/in/pratik-kumar-jena-1823b3242/)) |
 | 🐙 **GitHub** | [@pratik04032](https://github.com/pratik04032) |
-| 📧 **Email** | [pratik.kumar.jena.24@gmail.com](mailto:pratikkumarjena04@gmail.com) |
+| 📧 **Email** | [pratik.kumar.jena.24@gmail.com](mailto: pratikkumarjena04@gmail.com) |
 
 **Open to:**
 * Collaborations on Machine Learning and Web Development projects.
