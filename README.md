@@ -150,6 +150,48 @@ I am a tech enthusiast who loves turning coffee into code, and debugging is my f
 
 | Degree / Program | Institution | Expected Graduation |
 
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 💻 Building end-to-end web applications and exploring frontend frameworks like React.js.
+* 🧠 Developing machine learning models, including Deepfake Analysis using MobileNetV2 and CNN.
+* 📊 Utilizing Python libraries (Pandas, NumPy, Matplotlib, Seaborn) for data analysis and visualization.
+* ⚙️ Practicing competitive programming and tackling Advanced Data Structures and Algorithms (DSA).
+* 🌐 Expanding my personal portfolio website using Streamlit and HTML/CSS.
+
+---
+
+## 🔗 Let's Connect!
+
+I'm actively seeking internships, collaborations on real-world projects, and open-source opportunities. If you're building something cool or want to team up for a hackathon, feel free to reach out!
+
+| Platform | Profile |
+| :--- | :--- |
+| 💼 **LinkedIn** | [Pratik Kumar Jena]([https://www.linkedin.com/in/pratik-kumar-jena-1823b3243/](https://www.linkedin.com/in/pratik-kumar-jena-1823b3242/)) |
+| 🐙 **GitHub** | [@pratik04032](https://github.com/pratik04032) |
+| 📧 **Email** | [pratik.kumar.jena.24@gmail.com](mailto:pratikkumarjena04@gmail.com) |
+
+**Open to:**
+* Collaborations on Machine Learning and Web Development projects.
+* Internships and global remote opportunities.
+* Hackathons, coding challenges, and open-source contributions.
+* Knowledge sharing and networking with fellow developers.
+
+---
+
+## 💡 Current Focus
+
+* Mastering React.js to build dynamic, responsive user interfaces.
+* Advancing my proficiency in Python for Data Science and Machine Learning.
+* Preparing for technical assessments through continuous DSA practice.
+* Integrating AI modules (like my Resume Analyzer) into functional web applications.
+
+---
+
+⭐ **If you found my projects interesting or helpful, please consider starring the repositories!**
+
 |---|---|---|
 
 | **B.Tech in Computer Science and Engineering** <br> *(Specialization in AI & Machine Learning)* | Trident Academy of Technology, Bhubaneswar | 2026 |
